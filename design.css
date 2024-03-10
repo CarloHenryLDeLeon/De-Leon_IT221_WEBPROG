@@ -11,6 +11,11 @@ html {
     animation: gradient 15s ease infinite;
 }
 
+.header h1 {
+    font-size: 24px; /* Adjust as needed */
+    font-weight: bold;
+}
+
 body {
     font-family: Arial, sans-serif;
     overflow: auto;
